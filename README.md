@@ -1,10 +1,8 @@
 # GUI_graph_visulisation_tool
 
-This project helps to plot the graphs from the csv files.
+This project facilitates graph plotting from CSV files. To use it, save the following three files in the same folder as your CSV file:
 
-There are 3 files which you need to save in the same folder with csv file 
+    CardioFitness.py: Execute this script to open the GUI. Navigate to the file menu, select the Excel file to upload, and choose the desired graphs from the menu to plot.
 
-CardioFitness.py has to be run to open GUI and from the file menu choose excel file to upload and choose the graphs from the menu to plot it.
-
-At the moment this file is only for one csv which is present in the folder but this can be developed further to take any csv files to plot different kind of graphs.
+The current version supports a single CSV file located in the folder. However, it can be extended to handle multiple CSV files, allowing for the plotting of diverse graphs. Consider exploring the code for potential developments.
 
